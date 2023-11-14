@@ -1,7 +1,20 @@
-{
-    "folders": [
-        {
-            "path": "."
-        }
-    ]
-}
+<html>
+<head>
+<link rel="shortcut icon" href="C:\Users\USER\Pictures/kotikk.png" type="image/x-icon" /> 
+<meta charset="utf-8">
+<title>Kitycat</title>
+</head>
+<body>
+<h1>Soft kitty, warm kitty little ball of fur</h>
+<h2>Happy kitty, sleepy kitty</h2>
+<h3>Purr purr purr</h3>
+<img src="C:\Users\USER\Pictures/kotik.jpg"/>
+<p>U can listen or sing to <a href="https://www.youtube.com/watch?v=_CD1hw1GxBE">this</a> whenever u are<p/>
+<ul>
+<li>sad</li>
+<li>tired of living this life</li>
+<li>sleepy and in the need of hug</li>
+</ul>
+<p>hope things get better for u honey</p>
+</body>
+</html>
